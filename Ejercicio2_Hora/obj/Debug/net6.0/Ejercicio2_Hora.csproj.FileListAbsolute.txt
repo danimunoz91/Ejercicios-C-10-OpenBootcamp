@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\bin\Debug\net6.0\Ejercicio2_Hora.exe
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\bin\Debug\net6.0\Ejercicio2_Hora.deps.json
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\bin\Debug\net6.0\Ejercicio2_Hora.runtimeconfig.json
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\bin\Debug\net6.0\Ejercicio2_Hora.dll
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\bin\Debug\net6.0\Ejercicio2_Hora.pdb
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\obj\Debug\net6.0\Ejercicio2_Hora.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\obj\Debug\net6.0\Ejercicio2_Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\obj\Debug\net6.0\Ejercicio2_Hora.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\obj\Debug\net6.0\Ejercicio2_Hora.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\obj\Debug\net6.0\Ejercicio2_Hora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\obj\Debug\net6.0\Ejercicio2_Hora.dll
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\obj\Debug\net6.0\refint\Ejercicio2_Hora.dll
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\obj\Debug\net6.0\Ejercicio2_Hora.pdb
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\obj\Debug\net6.0\Ejercicio2_Hora.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Ejercicio2_Hora\obj\Debug\net6.0\ref\Ejercicio2_Hora.dll
