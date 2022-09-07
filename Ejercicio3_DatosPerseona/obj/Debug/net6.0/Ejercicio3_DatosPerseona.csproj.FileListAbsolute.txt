@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\bin\Debug\net6.0\Ejercicio3_DatosPerseona.exe
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\bin\Debug\net6.0\Ejercicio3_DatosPerseona.deps.json
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\bin\Debug\net6.0\Ejercicio3_DatosPerseona.runtimeconfig.json
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\bin\Debug\net6.0\Ejercicio3_DatosPerseona.dll
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\bin\Debug\net6.0\Ejercicio3_DatosPerseona.pdb
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\obj\Debug\net6.0\Ejercicio3_DatosPerseona.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\obj\Debug\net6.0\Ejercicio3_DatosPerseona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\obj\Debug\net6.0\Ejercicio3_DatosPerseona.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\obj\Debug\net6.0\Ejercicio3_DatosPerseona.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\obj\Debug\net6.0\Ejercicio3_DatosPerseona.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\obj\Debug\net6.0\Ejercicio3_DatosPerseona.dll
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\obj\Debug\net6.0\refint\Ejercicio3_DatosPerseona.dll
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\obj\Debug\net6.0\Ejercicio3_DatosPerseona.pdb
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\obj\Debug\net6.0\Ejercicio3_DatosPerseona.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Ejercicio3_DatosPerseona\obj\Debug\net6.0\ref\Ejercicio3_DatosPerseona.dll
