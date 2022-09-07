@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\bin\Debug\net6.0\Ejercicio5_Condiciones.exe
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\bin\Debug\net6.0\Ejercicio5_Condiciones.deps.json
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\bin\Debug\net6.0\Ejercicio5_Condiciones.runtimeconfig.json
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\bin\Debug\net6.0\Ejercicio5_Condiciones.dll
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\bin\Debug\net6.0\Ejercicio5_Condiciones.pdb
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\obj\Debug\net6.0\Ejercicio5_Condiciones.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\obj\Debug\net6.0\Ejercicio5_Condiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\obj\Debug\net6.0\Ejercicio5_Condiciones.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\obj\Debug\net6.0\Ejercicio5_Condiciones.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\obj\Debug\net6.0\Ejercicio5_Condiciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\obj\Debug\net6.0\Ejercicio5_Condiciones.dll
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\obj\Debug\net6.0\refint\Ejercicio5_Condiciones.dll
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\obj\Debug\net6.0\Ejercicio5_Condiciones.pdb
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\obj\Debug\net6.0\Ejercicio5_Condiciones.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Ejercicio5_Condiciones\obj\Debug\net6.0\ref\Ejercicio5_Condiciones.dll
